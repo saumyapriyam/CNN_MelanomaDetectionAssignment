@@ -23,7 +23,6 @@ The data set contains the following diseases:
  
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -76,7 +75,7 @@ When the epochs have been increased, images have been augemented, and Batch norm
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by saumyapriyam - feel free to contact me!
 
 
 <!-- Optional -->
